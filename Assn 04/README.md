@@ -17,4 +17,5 @@ Testing: ./mst <./data/graph.txt
 ```
 Notes:
 - 4 test input files are provided: graph.txt, graph2.txt, graph3.txt, graph4.txt
-- The input for the assignment is as follows:<br/>[number of vertices]<br/>[edge start] [edge end] [edge weight]<br/>...<br/>0
+- The input for the assignment is as follows:<br/>[number of vertices]<br/>[edge start] [edge end] [edge weight]<br/>[edge start] [edge end] [edge weight]<br/>...<br/>0
+- The number of edges you specify is arbitrary; however, you MUST specify a valid vertex for both the vertex the edge points from, and the one it points to

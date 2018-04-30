@@ -7,7 +7,7 @@
 <b>Language(s):</b> C++ (“C”) <br />
 
 Description: <br/>
-Algorithms and Data Structures introduced a new language to us as students – C++, with a bit of C syntax mixed in. Introductory data structures, such as lists, stacks, queues, and heaps, were introduced in this course, as well as miniature algorithms and functions of those structures, such as heap sorting or inserting a node into a list. Trees and hashtables were also introduced, but the latter was less mentioned in favor of the other. (Given the language shift, introduction to pointers and memory-addressing/allocation/deallocation was also covered, and an introduction given to the gdb.) Sorting and recursive algorithms were also introduced. <br/>
+Algorithms and Data Structures introduced a new language to us as students – C++, with a bit of C syntax mixed in. Introductory data structures, such as lists, stacks, queues, and heaps, were introduced in this course, as well as miniature algorithms and functions of those structures, such as heap sorting or inserting a node into a list. Trees and hashtables were also introduced, but the latter was less mentioned in favor of the other. (Given the language shift, introduction to pointers and memory-addressing/allocation/deallocation was also covered, and an introduction given to the gdb.) Sorting and recursive algorithms were also introduced. <br/><br/>
 (The reason that (“C”) is listed is due to the instructor’s preference. Null-terminated strings were introduced, and a few other practices of C were utilized; however, the assignments were compiled using the g++ command, and use free/new keywords for memory management.) <br/>
 
 ## Disclaimer
