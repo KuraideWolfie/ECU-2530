@@ -19,4 +19,4 @@ Notes:
 - 2 test files are provided for the program in ‘data.’
 - Tracing is available for this program. You can do this by toggling `PROG_TRACE` to true in the file dijkstra.cpp, or executing the program with the `-t` toggle as shown above.
 - The input for the assignment is as follows:<br/>[number of vertices]<br/>[edge start] [edge end] [edge weight]<br/>[edge start] [edge end] [edge weight]<br/>...<br/>0<br/>[start vertex] [end vertex]
-- The input of this program assumes that there is a shortest path, and also that the weights of the edges of the graph are positive.
+- The input of this program should include a possible shortest path for the start and end vertices. All edges should, in addition, have positive weights.
