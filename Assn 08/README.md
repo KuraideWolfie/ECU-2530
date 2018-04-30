@@ -4,7 +4,7 @@
 ### Assignment Description
 This assignment incorporated the Huffman algorithm, being split into two parts: huffman, and unhuffman. The first portion was about executing the Huffman algorithm to generate a Huffman code for a file, and unhuffman was required to decompose that code to rebuild the original file. A couple of files were provided to manipulate binary data, and the reutilization of priority queues mandated. (The instructor provided for us, as well, a tree structure definition to use.) The console output of huffman was the frequencies of all characters in the file, as well as the constructed Huffman code. The console output of unhuffman needed to only be the reconstructed code from the input file.
 ### Source Files
-...
+huffman.cpp unhuffman.cpp binary.h binary1.cpp pqueue.cpp pqueue.h trace.cpp trace.h tree.h
 ### Compilation, Testing, and Known Issues
 ```
 Windows:
