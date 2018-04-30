@@ -24,7 +24,7 @@ int main()
 	double x1, y1, x2, y2, x3, y3;
 	scanf("%lf%lf%lf%lf%lf%lf", &x1, &y1, &x2, &y2, &x3, &y3);
 	showInput(x1, y1, x2, y2, x3, y3);
-    consider(x1, y1, x2, y2, x3, y3);
+	consider(x1, y1, x2, y2, x3, y3);
 	return 0;
 }
 
